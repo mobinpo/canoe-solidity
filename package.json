@@ -19,5 +19,6 @@
   },
   "homepage": "https://github.com/mobinpo/canoe-solidity",
   "author": "mobin",
-  "license": "ISC"
+  "license": "ISC",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
 }
