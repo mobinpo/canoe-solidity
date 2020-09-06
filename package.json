@@ -17,7 +17,7 @@
     "test": "mocha",
     "docs": "jsdoc2md index.js | sed 's/^#/##/g'"
   },
-  "homepage": "https://github.com/cryptofinlabs/canoe-solidity",
-  "author": "dmdque",
+  "homepage": "https://github.com/mobinpo/canoe-solidity",
+  "author": "mobin",
   "license": "ISC"
 }
