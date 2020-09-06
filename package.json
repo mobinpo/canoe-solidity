@@ -1,5 +1,5 @@
 {
-  "name": "canoe-solidity",
+  "name": "@mobinpo/canoe-solidity",
   "version": "0.1.0",
   "description": "",
   "main": "index.js",
@@ -18,7 +18,7 @@
     "docs": "jsdoc2md index.js | sed 's/^#/##/g'"
   },
   "homepage": "https://github.com/mobinpo/canoe-solidity",
-  "author": "mobin",
+  "author": "dmdque",
   "license": "ISC",
   "publishConfig": { "registry": "https://npm.pkg.github.com/" }
 }
